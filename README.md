@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **aditi-gulati/aditi-gulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<!--  ### Watch my contribution graph get eaten by the snake 🐍 -->
+![snake gif](https://raw.githubusercontent.com/aditi-gulati/aditi-gulati/main/github-user-contribution.svg)
