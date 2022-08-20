@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-gulati)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aditigulati)
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCBIgoPDdjSldW-P9m2Ot1Ew/videos )
 [![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%13580900.svg?&style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/)
