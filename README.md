@@ -1,5 +1,5 @@
 <!-- ### Hi t -->
-<h1 align="center"> Hi 👋, I'm  <img src="https://github.com/aditi-gulati/aditi-gulati/blob/main/assest/text.gif" ></h1>
+<h1 align="center"> Hi 👋, I'm  <img src="https://github.com/aditi-gulati/aditi-gulati/blob/main/assest/text.gif"></h1>
 <img align="right" width ="100" height="100" src="https://user-images.githubusercontent.com/42711978/107768183-157f1180-6d5c-11eb-8ff6-4b2e8278fd08.gif")
 
 <!--
